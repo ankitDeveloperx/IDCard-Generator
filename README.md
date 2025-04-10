@@ -2,9 +2,7 @@
 
 A simple and user-friendly React application that allows you to generate stylish Employee ID cards by filling out a form. You can create multiple cards, view them, and delete them with confirmation—just like managing a to-do list!
 
-![ID Card Preview](./public/idcard-sample.png) <!-- Update this path with your actual preview image if available -->
-
-## 🚀 Features
+##  Features
 
 - 📝 Input employee details through a form
 - 🖼️ Upload employee photo using URL
