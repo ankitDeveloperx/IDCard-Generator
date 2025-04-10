@@ -42,14 +42,13 @@ A simple and user-friendly React application that allows you to generate stylish
 ├── IDCard.css
 
 ## Future Enhancements
-📤 Upload photo from device
-🌐 Deploy to GitHub Pages or Netlify
-🧾 Export ID card as image/PDF
-✨ Add more styling or animations
+- 🌐 Deploy to GitHub Pages or Netlify
+- 🧾 Export ID card as image/PDF
+- ✨ Add more styling or animations
 
 ## Author
-Ankit Kumar
-💼 LinkedIn : https://www.linkedin.com/in/ankit-kumar-399926209
+# Ankit Kumar
+- 💼 LinkedIn : https://www.linkedin.com/in/ankit-kumar-399926209
 
 ## License
 This project is open-source and free to use under the MIT License.
