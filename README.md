@@ -13,7 +13,7 @@ A simple and user-friendly React application that allows you to generate stylish
 ## 🛠️ Built With
 
 - ⚛️ React.js
-- 💅 CSS (custom, beginner-friendly class names)
+- 💅 CSS 
 - 🧠 useState (React Hook)
 - 📦 Vite (or CRA based on your setup)
 
